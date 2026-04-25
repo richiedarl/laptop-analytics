@@ -1,0 +1,201 @@
+laptop_id,model,vendor,purchase_cost,purchase_date,warranty_expiry
+1,HP EliteBook,TechSupply Ltd,656495,2024-10-15,2026-10-15
+2,Lenovo ThinkPad,HP Africa,619187,2025-02-08,2027-02-08
+3,Dell Latitude,TechSupply Ltd,756166,2024-04-25,2026-04-25
+4,Lenovo ThinkPad,TechSupply Ltd,781675,2024-07-25,2026-07-25
+5,Lenovo ThinkPad,Lenovo West Africa,424719,2025-09-16,2027-09-16
+6,Lenovo ThinkPad,HP Africa,782358,2024-05-28,2026-05-28
+7,Lenovo ThinkPad,TechSupply Ltd,728609,2025-12-12,2027-12-12
+8,Dell Latitude,Dell NG,652520,2024-11-02,2026-11-02
+9,Lenovo ThinkPad,Prime Devices,565641,2025-12-09,2027-12-09
+10,Lenovo ThinkPad,TechSupply Ltd,730474,2024-11-07,2026-11-07
+11,Lenovo ThinkPad,Dell NG,529706,2026-03-13,2028-03-12
+12,HP EliteBook,HP Africa,600853,2025-11-16,2027-11-16
+13,Dell Latitude,Prime Devices,772268,2025-10-18,2027-10-18
+14,MacBook Pro,HP Africa,646476,2025-10-26,2027-10-26
+15,Dell Latitude,HP Africa,358917,2026-02-20,2028-02-20
+16,Dell Latitude,TechSupply Ltd,258324,2025-09-10,2027-09-10
+17,HP EliteBook,HP Africa,313664,2026-04-16,2028-04-15
+18,MacBook Pro,HP Africa,251712,2026-04-18,2028-04-17
+19,MacBook Pro,TechSupply Ltd,807785,2025-10-12,2027-10-12
+20,Lenovo ThinkPad,Lenovo West Africa,374779,2025-02-07,2027-02-07
+21,MacBook Pro,Prime Devices,774023,2026-01-13,2028-01-13
+22,Lenovo ThinkPad,TechSupply Ltd,538875,2025-09-16,2027-09-16
+23,Acer Aspire,TechSupply Ltd,333940,2025-05-05,2027-05-05
+24,Lenovo ThinkPad,HP Africa,719569,2024-11-03,2026-11-03
+25,MacBook Pro,Prime Devices,305617,2026-02-17,2028-02-17
+26,HP EliteBook,Lenovo West Africa,299476,2024-12-13,2026-12-13
+27,Dell Latitude,Dell NG,539372,2024-08-08,2026-08-08
+28,HP EliteBook,TechSupply Ltd,401483,2025-11-26,2027-11-26
+29,HP EliteBook,TechSupply Ltd,633862,2026-03-11,2028-03-10
+30,MacBook Pro,Dell NG,816038,2025-12-05,2027-12-05
+31,Lenovo ThinkPad,TechSupply Ltd,774033,2025-11-13,2027-11-13
+32,MacBook Pro,Lenovo West Africa,633955,2026-03-15,2028-03-14
+33,MacBook Pro,Dell NG,671429,2024-08-16,2026-08-16
+34,Lenovo ThinkPad,Dell NG,451650,2024-11-02,2026-11-02
+35,Dell Latitude,TechSupply Ltd,435725,2025-02-10,2027-02-10
+36,Lenovo ThinkPad,TechSupply Ltd,315115,2025-06-01,2027-06-01
+37,Acer Aspire,Dell NG,830655,2025-03-01,2027-03-01
+38,HP EliteBook,TechSupply Ltd,316122,2025-08-31,2027-08-31
+39,MacBook Pro,Dell NG,673909,2025-06-21,2027-06-21
+40,HP EliteBook,TechSupply Ltd,704321,2025-12-01,2027-12-01
+41,Dell Latitude,HP Africa,339471,2025-08-29,2027-08-29
+42,Dell Latitude,Prime Devices,502584,2025-02-21,2027-02-21
+43,Dell Latitude,Dell NG,470387,2025-06-24,2027-06-24
+44,Acer Aspire,HP Africa,764838,2024-07-28,2026-07-28
+45,Acer Aspire,Dell NG,563634,2025-08-04,2027-08-04
+46,Dell Latitude,Prime Devices,829432,2025-06-19,2027-06-19
+47,HP EliteBook,TechSupply Ltd,807953,2025-09-02,2027-09-02
+48,Dell Latitude,Prime Devices,527850,2026-04-22,2028-04-21
+49,Dell Latitude,Dell NG,593698,2024-11-23,2026-11-23
+50,HP EliteBook,Dell NG,657620,2025-02-12,2027-02-12
+51,MacBook Pro,TechSupply Ltd,421232,2024-04-29,2026-04-29
+52,Acer Aspire,TechSupply Ltd,820237,2024-07-23,2026-07-23
+53,Acer Aspire,Dell NG,315918,2024-11-26,2026-11-26
+54,Acer Aspire,Prime Devices,573113,2025-09-27,2027-09-27
+55,MacBook Pro,Lenovo West Africa,397965,2025-10-28,2027-10-28
+56,MacBook Pro,HP Africa,293749,2025-07-19,2027-07-19
+57,MacBook Pro,TechSupply Ltd,520475,2026-03-23,2028-03-22
+58,Acer Aspire,Prime Devices,260676,2025-09-03,2027-09-03
+59,Acer Aspire,HP Africa,413875,2025-12-10,2027-12-10
+60,Dell Latitude,HP Africa,525103,2024-12-20,2026-12-20
+61,Dell Latitude,Lenovo West Africa,325816,2025-08-04,2027-08-04
+62,HP EliteBook,TechSupply Ltd,835180,2025-04-17,2027-04-17
+63,Dell Latitude,HP Africa,577276,2026-04-02,2028-04-01
+64,HP EliteBook,HP Africa,254559,2025-05-07,2027-05-07
+65,HP EliteBook,Dell NG,333468,2025-05-11,2027-05-11
+66,HP EliteBook,Prime Devices,713958,2026-01-26,2028-01-26
+67,Dell Latitude,Lenovo West Africa,352620,2024-09-06,2026-09-06
+68,Lenovo ThinkPad,Dell NG,502503,2025-01-15,2027-01-15
+69,HP EliteBook,Prime Devices,523639,2025-10-15,2027-10-15
+70,Lenovo ThinkPad,HP Africa,787121,2025-09-04,2027-09-04
+71,Dell Latitude,Lenovo West Africa,523026,2025-11-30,2027-11-30
+72,Dell Latitude,Lenovo West Africa,838117,2025-10-14,2027-10-14
+73,Lenovo ThinkPad,HP Africa,746232,2025-12-03,2027-12-03
+74,Acer Aspire,HP Africa,830149,2025-03-08,2027-03-08
+75,HP EliteBook,HP Africa,612441,2025-02-14,2027-02-14
+76,Lenovo ThinkPad,Prime Devices,464505,2026-03-15,2028-03-14
+77,MacBook Pro,Dell NG,579842,2025-12-30,2027-12-30
+78,Lenovo ThinkPad,TechSupply Ltd,553187,2025-10-30,2027-10-30
+79,Acer Aspire,Dell NG,392216,2024-07-13,2026-07-13
+80,Dell Latitude,Lenovo West Africa,414775,2024-12-30,2026-12-30
+81,HP EliteBook,HP Africa,398047,2025-01-23,2027-01-23
+82,Lenovo ThinkPad,HP Africa,736454,2026-04-12,2028-04-11
+83,Lenovo ThinkPad,Dell NG,830072,2024-06-10,2026-06-10
+84,MacBook Pro,Dell NG,325281,2025-04-15,2027-04-15
+85,HP EliteBook,Prime Devices,640534,2025-01-09,2027-01-09
+86,Dell Latitude,TechSupply Ltd,579341,2025-01-31,2027-01-31
+87,Acer Aspire,Dell NG,351163,2026-02-26,2028-02-26
+88,Lenovo ThinkPad,Dell NG,381174,2025-12-04,2027-12-04
+89,MacBook Pro,Prime Devices,686322,2025-06-25,2027-06-25
+90,Dell Latitude,HP Africa,786139,2025-03-07,2027-03-07
+91,Lenovo ThinkPad,Prime Devices,485446,2026-02-23,2028-02-23
+92,Dell Latitude,HP Africa,513646,2025-05-21,2027-05-21
+93,Acer Aspire,Prime Devices,466289,2026-01-15,2028-01-15
+94,Dell Latitude,HP Africa,482967,2025-04-27,2027-04-27
+95,Acer Aspire,TechSupply Ltd,351740,2025-12-03,2027-12-03
+96,Acer Aspire,HP Africa,259273,2025-05-28,2027-05-28
+97,Lenovo ThinkPad,Prime Devices,417769,2026-02-23,2028-02-23
+98,Acer Aspire,Prime Devices,567651,2024-04-23,2026-04-23
+99,MacBook Pro,Dell NG,701035,2025-02-28,2027-02-28
+100,Dell Latitude,Prime Devices,636365,2025-02-10,2027-02-10
+101,Acer Aspire,TechSupply Ltd,565287,2025-06-02,2027-06-02
+102,HP EliteBook,TechSupply Ltd,667348,2026-01-29,2028-01-29
+103,Lenovo ThinkPad,Prime Devices,821099,2026-02-12,2028-02-12
+104,Lenovo ThinkPad,TechSupply Ltd,341013,2024-06-23,2026-06-23
+105,Lenovo ThinkPad,Lenovo West Africa,707458,2024-06-16,2026-06-16
+106,MacBook Pro,Lenovo West Africa,535689,2025-05-08,2027-05-08
+107,MacBook Pro,Lenovo West Africa,753605,2025-06-09,2027-06-09
+108,MacBook Pro,Lenovo West Africa,832277,2025-07-13,2027-07-13
+109,HP EliteBook,Prime Devices,490331,2024-10-29,2026-10-29
+110,Acer Aspire,Lenovo West Africa,413864,2025-07-04,2027-07-04
+111,Acer Aspire,Lenovo West Africa,459697,2025-08-29,2027-08-29
+112,Acer Aspire,HP Africa,628197,2026-04-16,2028-04-15
+113,Dell Latitude,Lenovo West Africa,731136,2025-05-21,2027-05-21
+114,Acer Aspire,HP Africa,788218,2026-02-23,2028-02-23
+115,Acer Aspire,Prime Devices,706491,2025-10-12,2027-10-12
+116,HP EliteBook,Prime Devices,831011,2025-06-03,2027-06-03
+117,HP EliteBook,TechSupply Ltd,619193,2024-09-24,2026-09-24
+118,MacBook Pro,Lenovo West Africa,805258,2025-12-28,2027-12-28
+119,HP EliteBook,HP Africa,287377,2025-12-16,2027-12-16
+120,Lenovo ThinkPad,HP Africa,631521,2024-07-04,2026-07-04
+121,Acer Aspire,Prime Devices,383247,2025-01-27,2027-01-27
+122,Acer Aspire,Dell NG,381476,2024-12-26,2026-12-26
+123,MacBook Pro,Lenovo West Africa,626038,2024-06-19,2026-06-19
+124,Lenovo ThinkPad,TechSupply Ltd,301955,2025-02-17,2027-02-17
+125,Acer Aspire,Dell NG,392152,2025-05-19,2027-05-19
+126,HP EliteBook,HP Africa,632446,2024-08-30,2026-08-30
+127,Lenovo ThinkPad,Lenovo West Africa,410584,2025-11-04,2027-11-04
+128,HP EliteBook,Prime Devices,457746,2025-07-20,2027-07-20
+129,Acer Aspire,Lenovo West Africa,650301,2024-08-28,2026-08-28
+130,Acer Aspire,Dell NG,286730,2025-03-23,2027-03-23
+131,MacBook Pro,Lenovo West Africa,572663,2026-02-03,2028-02-03
+132,Acer Aspire,TechSupply Ltd,466753,2024-11-08,2026-11-08
+133,MacBook Pro,TechSupply Ltd,395830,2024-06-09,2026-06-09
+134,Acer Aspire,Lenovo West Africa,725357,2025-04-13,2027-04-13
+135,Acer Aspire,HP Africa,292500,2026-03-31,2028-03-30
+136,MacBook Pro,Dell NG,315336,2024-09-10,2026-09-10
+137,Lenovo ThinkPad,Prime Devices,833471,2026-02-07,2028-02-07
+138,Acer Aspire,TechSupply Ltd,432306,2024-05-03,2026-05-03
+139,MacBook Pro,Prime Devices,801195,2025-06-08,2027-06-08
+140,Lenovo ThinkPad,HP Africa,251235,2024-05-07,2026-05-07
+141,MacBook Pro,HP Africa,330413,2025-10-18,2027-10-18
+142,Dell Latitude,Prime Devices,801857,2025-09-04,2027-09-04
+143,MacBook Pro,Dell NG,512181,2024-05-26,2026-05-26
+144,HP EliteBook,Dell NG,563732,2025-10-22,2027-10-22
+145,Acer Aspire,TechSupply Ltd,657279,2024-08-28,2026-08-28
+146,MacBook Pro,Prime Devices,571747,2025-04-27,2027-04-27
+147,MacBook Pro,Lenovo West Africa,331676,2025-06-02,2027-06-02
+148,HP EliteBook,Prime Devices,756336,2026-02-22,2028-02-22
+149,MacBook Pro,TechSupply Ltd,696583,2024-05-19,2026-05-19
+150,HP EliteBook,Prime Devices,324863,2025-10-09,2027-10-09
+151,HP EliteBook,Prime Devices,459204,2026-02-27,2028-02-27
+152,MacBook Pro,HP Africa,805786,2026-01-16,2028-01-16
+153,Dell Latitude,HP Africa,376620,2024-11-25,2026-11-25
+154,Lenovo ThinkPad,HP Africa,562230,2025-02-01,2027-02-01
+155,Dell Latitude,HP Africa,376430,2025-10-21,2027-10-21
+156,HP EliteBook,Lenovo West Africa,272390,2025-11-28,2027-11-28
+157,MacBook Pro,Prime Devices,837615,2024-10-14,2026-10-14
+158,Lenovo ThinkPad,TechSupply Ltd,351808,2024-08-08,2026-08-08
+159,Dell Latitude,Lenovo West Africa,291001,2025-09-17,2027-09-17
+160,HP EliteBook,TechSupply Ltd,502126,2025-11-05,2027-11-05
+161,Dell Latitude,HP Africa,458482,2026-01-19,2028-01-19
+162,Acer Aspire,Dell NG,696979,2026-01-27,2028-01-27
+163,Lenovo ThinkPad,Prime Devices,328745,2025-01-10,2027-01-10
+164,HP EliteBook,Dell NG,431496,2025-01-06,2027-01-06
+165,Lenovo ThinkPad,TechSupply Ltd,717484,2025-07-02,2027-07-02
+166,MacBook Pro,Dell NG,563473,2025-02-25,2027-02-25
+167,MacBook Pro,Prime Devices,677622,2026-03-27,2028-03-26
+168,Lenovo ThinkPad,Lenovo West Africa,516834,2024-12-02,2026-12-02
+169,Acer Aspire,Dell NG,771424,2024-11-24,2026-11-24
+170,Dell Latitude,Prime Devices,824163,2025-09-10,2027-09-10
+171,HP EliteBook,Dell NG,294655,2024-11-27,2026-11-27
+172,Dell Latitude,Dell NG,612965,2025-01-28,2027-01-28
+173,Lenovo ThinkPad,Lenovo West Africa,515834,2024-10-22,2026-10-22
+174,Dell Latitude,TechSupply Ltd,293603,2024-05-14,2026-05-14
+175,HP EliteBook,HP Africa,711160,2024-10-04,2026-10-04
+176,MacBook Pro,HP Africa,446568,2026-02-16,2028-02-16
+177,MacBook Pro,Dell NG,667345,2024-12-20,2026-12-20
+178,Dell Latitude,Dell NG,594819,2025-08-22,2027-08-22
+179,HP EliteBook,Prime Devices,423318,2025-07-19,2027-07-19
+180,Dell Latitude,Prime Devices,698194,2025-02-19,2027-02-19
+181,Lenovo ThinkPad,Lenovo West Africa,450018,2025-06-04,2027-06-04
+182,Lenovo ThinkPad,Prime Devices,274721,2025-02-11,2027-02-11
+183,Acer Aspire,Dell NG,584348,2024-12-14,2026-12-14
+184,Dell Latitude,Prime Devices,564222,2024-12-02,2026-12-02
+185,Dell Latitude,Prime Devices,250813,2025-09-27,2027-09-27
+186,MacBook Pro,HP Africa,557082,2025-02-15,2027-02-15
+187,Lenovo ThinkPad,Lenovo West Africa,328061,2024-08-23,2026-08-23
+188,Dell Latitude,Dell NG,632360,2025-07-17,2027-07-17
+189,Lenovo ThinkPad,Lenovo West Africa,622206,2024-09-06,2026-09-06
+190,Dell Latitude,TechSupply Ltd,654580,2024-10-25,2026-10-25
+191,Lenovo ThinkPad,TechSupply Ltd,329173,2024-08-10,2026-08-10
+192,MacBook Pro,HP Africa,755420,2024-05-13,2026-05-13
+193,Dell Latitude,Prime Devices,620604,2025-11-20,2027-11-20
+194,MacBook Pro,Prime Devices,812181,2025-11-20,2027-11-20
+195,MacBook Pro,Lenovo West Africa,835326,2024-05-05,2026-05-05
+196,MacBook Pro,TechSupply Ltd,842771,2024-12-25,2026-12-25
+197,Dell Latitude,Lenovo West Africa,654525,2025-05-13,2027-05-13
+198,MacBook Pro,Dell NG,794151,2025-08-30,2027-08-30
+199,Acer Aspire,TechSupply Ltd,800772,2026-01-08,2028-01-08
+200,MacBook Pro,Prime Devices,597470,2024-08-12,2026-08-12

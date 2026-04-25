@@ -1,0 +1,151 @@
+assignment_id,laptop_id,staff_name,department,branch,status,assigned_date
+1,85,Michael Drake,Admin,Ibadan Office,Returned,2026-04-10
+2,122,Rachel Hernandez,Finance,Lagos HQ,Returned,2025-10-04
+3,33,Daniel Cruz,Operations,Enugu Branch,Returned,2025-07-03
+4,195,Lance Johnson,Engineering,Ibadan Office,Assigned,2025-11-16
+5,125,Stanley Wilson,IT,Enugu Branch,Returned,2026-03-04
+6,109,Julia Burns,Operations,Port Harcourt Branch,Returned,2026-03-13
+7,176,Randy Esparza,IT,Lagos HQ,Assigned,2025-12-11
+8,23,Robin Wright,Admin,Lagos HQ,Returned,2025-12-19
+9,50,Carl Williams,Engineering,Abuja Office,Returned,2025-10-18
+10,91,Jeffrey Wallace,Finance,Enugu Branch,Assigned,2026-03-05
+11,20,John Weeks,Finance,Ibadan Office,Assigned,2025-06-27
+12,20,Sarah Young,Admin,Abuja Office,Assigned,2025-12-16
+13,56,Jennifer Sheppard,Admin,Port Harcourt Branch,Returned,2025-09-22
+14,151,Jill Martin,IT,Lagos HQ,Assigned,2025-12-02
+15,161,Heather Lucas,IT,Abuja Office,Damaged,2026-03-11
+16,36,Brian Oneal,IT,Port Harcourt Branch,Damaged,2025-05-06
+17,25,Chris Wallace,IT,Abuja Office,Returned,2025-11-25
+18,166,Tara Barry,IT,Enugu Branch,Damaged,2025-05-08
+19,163,Michael Clark,Finance,Abuja Office,Damaged,2025-08-03
+20,78,Erika Lee,Operations,Ibadan Office,Returned,2025-06-29
+21,76,Joel Sanchez,HR,Enugu Branch,Assigned,2025-11-18
+22,56,Jeremiah Gomez,Admin,Ibadan Office,Assigned,2025-12-14
+23,41,Paul Smith,Operations,Enugu Branch,Returned,2025-09-22
+24,128,Garrett Sparks,Operations,Lagos HQ,Returned,2025-09-11
+25,86,Seth Tucker,Engineering,Ibadan Office,Damaged,2026-01-01
+26,42,Lisa Fitzgerald,Admin,Port Harcourt Branch,Assigned,2025-10-15
+27,1,Joseph Moore,IT,Lagos HQ,Returned,2025-05-28
+28,6,Daniel Soto,HR,Port Harcourt Branch,Assigned,2025-06-22
+29,127,Emily Blankenship,HR,Enugu Branch,Assigned,2025-11-25
+30,179,Mark Gentry,Engineering,Abuja Office,Damaged,2025-08-01
+31,31,Willie Hopkins,Finance,Lagos HQ,Returned,2025-07-03
+32,111,Michelle Parker,Finance,Abuja Office,Assigned,2025-07-31
+33,51,Timothy Cruz,HR,Ibadan Office,Assigned,2026-02-01
+34,144,Bobby Bruce,Operations,Lagos HQ,Damaged,2026-01-24
+35,116,Rodney Thompson,Admin,Ibadan Office,Damaged,2025-05-14
+36,69,Dawn Smith,HR,Lagos HQ,Assigned,2025-09-14
+37,132,Craig Torres,Finance,Lagos HQ,Returned,2026-01-02
+38,190,Michael Jones,HR,Lagos HQ,Damaged,2025-04-27
+39,36,Diane Jones,HR,Abuja Office,Returned,2025-11-11
+40,109,Frederick Johnson,HR,Ibadan Office,Damaged,2025-05-09
+41,94,Rebecca Arias MD,HR,Lagos HQ,Assigned,2025-07-18
+42,79,Zachary Mahoney,HR,Port Harcourt Branch,Returned,2026-02-25
+43,19,Katherine Mcneil,Admin,Abuja Office,Damaged,2025-06-30
+44,45,Eric Ellis,IT,Enugu Branch,Damaged,2026-03-23
+45,22,Amy Alexander,Engineering,Port Harcourt Branch,Assigned,2026-04-09
+46,38,Jacob Rios,Engineering,Ibadan Office,Damaged,2025-10-05
+47,185,Linda Williams,Finance,Enugu Branch,Assigned,2025-08-25
+48,165,Anthony Thomas,HR,Port Harcourt Branch,Returned,2025-12-08
+49,200,Angela Morrison,Admin,Port Harcourt Branch,Returned,2025-05-25
+50,116,Ronald Tran,Admin,Port Harcourt Branch,Damaged,2025-08-30
+51,47,Vincent Mitchell,Engineering,Port Harcourt Branch,Returned,2026-01-13
+52,74,Jaclyn Williams,Finance,Enugu Branch,Assigned,2026-03-04
+53,10,Ashley Martinez,HR,Port Harcourt Branch,Damaged,2026-03-01
+54,103,Tiffany Taylor,Engineering,Port Harcourt Branch,Returned,2026-04-17
+55,158,Austin Taylor,Admin,Lagos HQ,Returned,2025-12-09
+56,32,Jason Gomez,Operations,Abuja Office,Returned,2025-10-07
+57,50,Miguel Kelly,Operations,Abuja Office,Returned,2025-04-22
+58,46,Thomas Holt,Admin,Enugu Branch,Returned,2025-05-11
+59,126,Melissa Pitts,Admin,Enugu Branch,Assigned,2026-03-29
+60,35,Carla Cole,HR,Enugu Branch,Returned,2025-07-11
+61,35,Amanda Goodwin,Admin,Port Harcourt Branch,Returned,2025-11-25
+62,184,Dana Wilkins,Operations,Lagos HQ,Damaged,2026-02-27
+63,171,Megan Bowen,Operations,Enugu Branch,Damaged,2026-02-02
+64,72,Dale Chavez,Finance,Lagos HQ,Returned,2025-12-03
+65,133,Christine Daniels,Operations,Ibadan Office,Returned,2026-01-31
+66,44,Wesley Howe,Operations,Ibadan Office,Assigned,2025-10-08
+67,43,Courtney Mendoza,Finance,Ibadan Office,Damaged,2026-04-10
+68,105,Louis Salazar,Admin,Port Harcourt Branch,Returned,2025-12-28
+69,68,William Mclean,Operations,Ibadan Office,Returned,2025-05-03
+70,74,Julie Clark,Admin,Lagos HQ,Returned,2025-11-19
+71,166,Michael Obrien,Engineering,Port Harcourt Branch,Assigned,2025-12-14
+72,118,Steven Thomas,HR,Lagos HQ,Returned,2025-06-18
+73,23,Tiffany Anderson,Admin,Ibadan Office,Damaged,2026-04-03
+74,179,James Hess,Engineering,Port Harcourt Branch,Damaged,2025-10-15
+75,67,Wayne Hardy,Engineering,Lagos HQ,Assigned,2026-02-20
+76,151,Susan Holmes,Engineering,Port Harcourt Branch,Returned,2025-04-24
+77,83,Darrell Martinez,IT,Enugu Branch,Returned,2025-05-20
+78,141,David Clark,Admin,Abuja Office,Returned,2026-04-17
+79,116,Craig Burns,Engineering,Abuja Office,Damaged,2025-06-02
+80,122,Thomas Silva,IT,Port Harcourt Branch,Returned,2025-07-26
+81,107,Christopher Wong,Operations,Ibadan Office,Returned,2025-05-23
+82,1,Mathew Fleming,Engineering,Lagos HQ,Returned,2025-06-02
+83,124,Sandra Walker,Finance,Port Harcourt Branch,Returned,2025-06-22
+84,80,Cindy Morrison,Operations,Abuja Office,Damaged,2025-09-30
+85,117,Erin Huffman,HR,Enugu Branch,Assigned,2025-05-03
+86,18,Jason Richardson,IT,Port Harcourt Branch,Assigned,2025-11-16
+87,169,John White,Operations,Ibadan Office,Damaged,2025-10-19
+88,113,Erica Grant,Operations,Ibadan Office,Assigned,2025-04-26
+89,151,Tina White,Operations,Ibadan Office,Damaged,2025-09-07
+90,80,Valerie Krueger,Admin,Port Harcourt Branch,Returned,2025-07-05
+91,78,Kathryn Carpenter,HR,Lagos HQ,Assigned,2025-08-11
+92,177,Roger Sosa,Engineering,Lagos HQ,Damaged,2026-03-31
+93,154,Melissa Rosario,Admin,Port Harcourt Branch,Returned,2025-07-07
+94,155,Anna Barnes,Engineering,Port Harcourt Branch,Assigned,2025-05-01
+95,23,Alicia Johnson,HR,Ibadan Office,Returned,2025-12-20
+96,190,Madison Blankenship,HR,Abuja Office,Damaged,2026-02-07
+97,189,Traci Taylor,Finance,Abuja Office,Assigned,2025-05-28
+98,102,Christopher Galloway,IT,Port Harcourt Branch,Damaged,2025-07-08
+99,164,Austin Pierce,Operations,Lagos HQ,Assigned,2026-01-05
+100,41,Sabrina Lopez,Engineering,Abuja Office,Returned,2025-08-12
+101,127,Sabrina Davis,Operations,Lagos HQ,Damaged,2025-10-27
+102,87,Raymond Nelson,Finance,Abuja Office,Damaged,2025-05-12
+103,78,Sara Olsen,IT,Enugu Branch,Assigned,2025-11-18
+104,43,Cynthia Lloyd,Operations,Enugu Branch,Assigned,2026-03-18
+105,52,Christopher Livingston,Operations,Ibadan Office,Assigned,2025-11-25
+106,142,Renee Allen,HR,Enugu Branch,Damaged,2025-11-10
+107,173,Debra Mcintyre,Finance,Ibadan Office,Assigned,2026-01-24
+108,192,Michele Palmer,HR,Enugu Branch,Assigned,2025-08-21
+109,67,Robin Edwards,Admin,Port Harcourt Branch,Returned,2025-07-02
+110,18,Julie Olson,IT,Enugu Branch,Assigned,2025-08-21
+111,174,Traci Patterson,Finance,Abuja Office,Damaged,2025-08-03
+112,198,James Roberts,Engineering,Abuja Office,Assigned,2026-01-10
+113,169,Lauren Chandler,Operations,Abuja Office,Assigned,2026-01-03
+114,172,Richard Serrano,HR,Port Harcourt Branch,Damaged,2026-01-15
+115,80,Daniel Frye,HR,Ibadan Office,Damaged,2025-06-25
+116,111,Robert Mckay,Operations,Ibadan Office,Assigned,2026-02-04
+117,53,Phillip Snyder,Finance,Lagos HQ,Returned,2025-09-21
+118,166,Howard Sims,Admin,Lagos HQ,Returned,2025-04-25
+119,105,Yolanda Hahn,Finance,Ibadan Office,Damaged,2025-10-24
+120,55,Brittany Knapp,IT,Ibadan Office,Assigned,2026-04-04
+121,152,Jennifer Wilson,Finance,Ibadan Office,Returned,2026-04-20
+122,199,Clifford Robertson,Operations,Enugu Branch,Damaged,2025-06-14
+123,34,Paul Wood,IT,Port Harcourt Branch,Assigned,2025-06-19
+124,127,Denise Cooper,Operations,Port Harcourt Branch,Assigned,2025-09-08
+125,176,Dennis Stewart,HR,Abuja Office,Damaged,2025-12-01
+126,198,Stephen King,IT,Port Harcourt Branch,Returned,2025-11-02
+127,22,Laurie Thompson,Operations,Abuja Office,Returned,2026-03-22
+128,50,Crystal Thomas,Operations,Enugu Branch,Damaged,2025-06-20
+129,132,Virginia Hernandez,Admin,Lagos HQ,Assigned,2026-03-05
+130,31,Derek Moore,HR,Port Harcourt Branch,Assigned,2025-12-07
+131,169,Rebecca Jones,Operations,Port Harcourt Branch,Assigned,2025-10-27
+132,41,Ashley Dunlap,Finance,Abuja Office,Returned,2026-03-08
+133,8,Anthony Chen,Admin,Lagos HQ,Returned,2025-09-30
+134,12,Nicole Palmer,Engineering,Ibadan Office,Damaged,2026-01-07
+135,138,Bradley Williams,HR,Abuja Office,Returned,2026-01-02
+136,31,Cassandra Hughes,Admin,Abuja Office,Assigned,2025-10-16
+137,47,Monica Collins,Operations,Enugu Branch,Assigned,2025-11-30
+138,155,Patrick Pena,Engineering,Enugu Branch,Returned,2025-12-22
+139,165,Tracey Peck,Operations,Enugu Branch,Returned,2026-04-17
+140,43,Tyrone Rivera,Engineering,Lagos HQ,Assigned,2025-05-21
+141,189,Leslie Shields,Engineering,Lagos HQ,Damaged,2025-07-18
+142,53,Caleb Hurst,Engineering,Enugu Branch,Damaged,2025-08-19
+143,162,Jaime Garcia,HR,Enugu Branch,Assigned,2025-08-23
+144,114,Amy Maxwell,Finance,Lagos HQ,Returned,2026-01-30
+145,117,Kathleen Smith,Operations,Enugu Branch,Damaged,2025-05-02
+146,68,Megan Gregory,Finance,Ibadan Office,Damaged,2025-06-12
+147,41,Kelly Beasley,Admin,Port Harcourt Branch,Assigned,2025-10-26
+148,116,Connie Ballard,Finance,Lagos HQ,Returned,2025-09-28
+149,22,Theresa Carney,HR,Enugu Branch,Assigned,2025-11-09
+150,139,Jennifer Ortiz,Operations,Abuja Office,Assigned,2026-02-23

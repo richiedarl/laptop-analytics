@@ -1,0 +1,101 @@
+repair_id,laptop_id,issue_type,repair_cost,repair_date
+1,183,Screen Damage,47021,2025-12-02
+2,136,Battery Failure,119429,2026-01-06
+3,55,Screen Damage,114159,2026-03-05
+4,45,Screen Damage,96757,2025-11-30
+5,36,Keyboard Fault,46933,2026-03-03
+6,171,Keyboard Fault,37475,2025-07-13
+7,50,Charging Port Issue,35511,2025-06-22
+8,100,Overheating,89038,2025-07-24
+9,107,Battery Failure,79898,2026-04-01
+10,76,Keyboard Fault,26811,2025-09-19
+11,45,Screen Damage,12907,2025-07-21
+12,121,Screen Damage,78490,2026-02-02
+13,112,Keyboard Fault,60213,2025-11-16
+14,189,Charging Port Issue,22419,2026-01-14
+15,52,Overheating,13147,2025-08-04
+16,34,Charging Port Issue,55620,2025-06-29
+17,136,Battery Failure,43233,2026-03-09
+18,16,Battery Failure,57853,2025-09-18
+19,113,Battery Failure,15437,2026-01-08
+20,61,Battery Failure,89509,2026-03-04
+21,142,Screen Damage,17273,2026-02-08
+22,4,Keyboard Fault,71319,2026-02-24
+23,68,Screen Damage,24871,2025-12-05
+24,188,Overheating,98387,2025-07-29
+25,152,Overheating,10948,2026-02-17
+26,108,Battery Failure,45168,2025-07-16
+27,17,Screen Damage,92604,2025-08-24
+28,29,Battery Failure,95066,2025-12-09
+29,198,Battery Failure,79976,2025-05-31
+30,30,Overheating,110654,2026-03-26
+31,135,Screen Damage,23347,2026-02-19
+32,50,Keyboard Fault,30009,2025-11-30
+33,134,Battery Failure,116538,2026-01-17
+34,169,Screen Damage,86526,2025-09-24
+35,15,Screen Damage,14678,2025-08-16
+36,13,Charging Port Issue,20516,2025-06-12
+37,87,Battery Failure,116178,2025-09-22
+38,87,Charging Port Issue,81179,2025-12-10
+39,49,Charging Port Issue,81019,2025-04-24
+40,109,Battery Failure,87459,2025-12-21
+41,50,Keyboard Fault,50313,2026-02-26
+42,95,Keyboard Fault,44658,2025-09-28
+43,40,Screen Damage,91383,2025-05-30
+44,91,Keyboard Fault,101557,2026-03-14
+45,135,Keyboard Fault,114690,2026-02-27
+46,130,Keyboard Fault,104778,2025-09-06
+47,91,Screen Damage,109436,2025-12-08
+48,79,Battery Failure,48971,2026-03-15
+49,110,Keyboard Fault,92533,2025-07-16
+50,18,Keyboard Fault,35806,2025-11-10
+51,179,Screen Damage,46585,2025-09-29
+52,127,Overheating,109484,2026-02-08
+53,155,Screen Damage,51118,2025-08-28
+54,124,Overheating,77241,2026-03-16
+55,140,Keyboard Fault,49999,2026-01-03
+56,67,Battery Failure,41021,2025-07-06
+57,70,Charging Port Issue,32477,2025-07-20
+58,177,Overheating,12140,2026-02-03
+59,77,Screen Damage,55010,2025-08-01
+60,40,Charging Port Issue,55712,2026-02-04
+61,144,Overheating,29824,2026-04-17
+62,17,Overheating,22657,2026-01-22
+63,189,Charging Port Issue,33042,2025-09-07
+64,193,Battery Failure,88685,2025-09-01
+65,88,Screen Damage,58372,2025-11-01
+66,2,Keyboard Fault,28433,2025-10-20
+67,22,Keyboard Fault,98477,2026-02-23
+68,23,Screen Damage,37304,2025-12-15
+69,157,Battery Failure,11514,2025-11-09
+70,119,Charging Port Issue,116584,2025-09-13
+71,165,Battery Failure,56647,2025-12-07
+72,182,Overheating,61116,2025-05-09
+73,186,Keyboard Fault,77414,2025-11-28
+74,181,Battery Failure,98748,2025-05-27
+75,195,Keyboard Fault,102149,2025-08-07
+76,141,Keyboard Fault,29834,2025-12-14
+77,89,Screen Damage,94970,2026-01-30
+78,100,Charging Port Issue,47435,2025-08-10
+79,145,Keyboard Fault,109898,2025-07-12
+80,120,Overheating,107313,2025-07-09
+81,189,Screen Damage,102618,2025-07-23
+82,35,Battery Failure,75464,2025-12-22
+83,80,Charging Port Issue,102197,2025-10-07
+84,77,Charging Port Issue,115187,2025-08-16
+85,159,Screen Damage,17924,2025-05-05
+86,111,Overheating,65558,2026-01-30
+87,168,Keyboard Fault,101457,2025-07-16
+88,194,Charging Port Issue,78266,2026-03-26
+89,141,Overheating,53080,2025-10-06
+90,83,Overheating,79306,2025-10-28
+91,84,Keyboard Fault,81318,2025-09-15
+92,169,Charging Port Issue,12549,2025-05-04
+93,122,Charging Port Issue,94345,2026-02-20
+94,151,Keyboard Fault,60488,2026-04-11
+95,55,Screen Damage,73463,2026-02-18
+96,104,Charging Port Issue,42043,2025-09-13
+97,184,Keyboard Fault,25355,2026-03-25
+98,106,Keyboard Fault,59886,2025-05-31
+99,33,Screen Damage,118136,2025-10-21
+100,179,Overheating,42116,2025-11-23
